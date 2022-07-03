@@ -1,0 +1,29 @@
+{
+  "name": "7.-curso-asincronismo-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "callback": "node src/callbacks/challenge.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juanr-yes/curso-asincronismo-js.git"
+  },
+  "keywords": [
+    "javascript",
+    "asincronismo"
+  ],
+  "author": "Juan Reyes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/juanr-yes/curso-asincronismo-js/issues"
+  },
+  "homepage": "https://github.com/juanr-yes/curso-asincronismo-js#readme",
+  "dependencies": {
+    "node-fetch": "^3.2.6",
+    "xmlhttprequest": "^1.8.0"
+  },
+  "type": "module"
+}
